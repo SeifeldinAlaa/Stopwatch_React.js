@@ -32,7 +32,30 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+.headline {
+
+  color: rgb(187, 31, 31);
+
+}
+
+
+button {
+
+  margin-right: 8px;
+
+}
+
+.number {
+
+  margin-right: 10px;
+
+
 }
